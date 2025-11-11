@@ -1,0 +1,25 @@
+# Environment variables (contains sensitive data like API keys, passwords)
+.env
+.env.local
+.env.*.local
+
+# Docker volumes and data persistence
+data/
+db/
+postgres_data/
+n8n_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
