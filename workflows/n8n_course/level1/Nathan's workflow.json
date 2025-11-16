@@ -27,7 +27,7 @@
       "name": "HTTP Request",
       "credentials": {
         "httpHeaderAuth": {
-          "id": "8J6BsfXvVPOgWjpr",
+          "id": "<HTTP Header Auth ID>",
           "name": "beginner_course"
         }
       }
@@ -90,7 +90,7 @@
       "name": "Create a record",
       "credentials": {
         "airtableTokenApi": {
-          "id": "dYb0JOPg2cHCHcC8",
+          "id": "<Airtable Token ID>",
           "name": "Airtable PAT"
         }
       }
@@ -188,7 +188,7 @@
       "webhookId": "a1b2c3d4-e5f6-7890-ijkl-mnopqrstuvwx",
       "credentials": {
         "discordWebhookApi": {
-          "id": "zpJlcowxJxQEduzN",
+          "id": "<Discord Webhook ID>",
           "name": "Discord Webhook account"
         }
       }
